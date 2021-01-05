@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Asad Ur Rehman</h1>
-<h3 align="center">Curently an undergrad Student of Computer Science at University of Engineering and Technolofy, Lahore, Pakistan. A passionate frontend developer</h3>
+<h3 align="center">Curently an undergrad Student of Computer Science at University of Engineering and Technology, Lahore, Pakistan. A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadurrehmancs111&label=Profile%20views&color=0e75b6&style=flat" alt="asadurrehmancs111" /> </p>
 
