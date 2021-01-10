@@ -3,7 +3,7 @@
 <h3 align="center">Curently an undergrad Student of Computer Science at University of Engineering and Technology, Lahore, Pakistan. A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadurrehmancs111&label=Profile%20views&color=0e75b6&style=flat" alt="asadurrehmancs111" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadurrehmancs111" alt="asadurrehmancs111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadurrehmancs111&theme=darkhub" alt="asadurrehmancs111" /></a> </p>
 
 - 🌱 I’m currently learning **Java Script**
 
