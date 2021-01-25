@@ -16,6 +16,8 @@
 <a href="https://fb.com/https://web.facebook.com/asadur.rehman.5872/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://web.facebook.com/asadur.rehman.5872/" height="30" width="40" /></a>
 <a href="https://instagram.com/i_a_m_asad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_a_m_asad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCg0mrnQDoyAxUA3prCJE1Tg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCg0mrnQDoyAxUA3prCJE1Tg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/asad48255" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/asad48255" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/mrasad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/mrasad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
