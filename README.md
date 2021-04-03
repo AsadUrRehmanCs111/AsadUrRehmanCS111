@@ -5,7 +5,7 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadurrehmancs111&label=Profile%20views&color=0e75b6&style=flat" alt="asadurrehmancs111" /> </p>--->
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadurrehmancs111&theme=darkhub" alt="asadurrehmancs111" /></a> </p>-->
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **React.Js**
 
 - 📫 How to reach me **mr.asad.dev@gmail.com**
 
