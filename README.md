@@ -25,7 +25,7 @@
 <a href="https://sass-lang.com" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="__blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="__blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="__blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 <p>
   <img  src="https://github-readme-stats.vercel.app/api?username=asadurrehmancs111&show_icons=true&locale=en&theme=vision-friendly-dark" alt="asadurrehmancs111" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asadurrehmancs111&" alt="asadurrehmancs111" />
+<!--   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=asadurrehmancs111&" alt="asadurrehmancs111" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadurrehmancs111&show_icons=true&locale=en&langs_count=10" alt="asadurrehmancs111" />
 </p>
 
